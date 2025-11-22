@@ -52,6 +52,152 @@
       "timeLimit": 50
     },
     {
+      "taskId": "drag_horizontal_01",
+      "type": "drag_horizontal",
+      "difficulty": 3,
+      "title": {
+        "hiragana": "よこにドラッグしよう",
+        "kanji": "横にドラッグしよう"
+      },
+      "items": [
+        {
+          "id": 1,
+          "startX": 100,
+          "startY": 150,
+          "targetX": 600,
+          "targetY": 150,
+          "targetWidth": 100,
+          "targetHeight": 100,
+          "icon": "🚗"
+        },
+        {
+          "id": 2,
+          "startX": 100,
+          "startY": 300,
+          "targetX": 600,
+          "targetY": 300,
+          "targetWidth": 100,
+          "targetHeight": 100,
+          "icon": "🚲"
+        }
+      ],
+      "timeLimit": 60
+    },
+    {
+      "taskId": "drag_vertical_01",
+      "type": "drag_vertical",
+      "difficulty": 4,
+      "title": {
+        "hiragana": "たてにドラッグしよう",
+        "kanji": "縦にドラッグしよう"
+      },
+      "items": [
+        {
+          "id": 1,
+          "startX": 200,
+          "startY": 80,
+          "targetX": 200,
+          "targetY": 380,
+          "targetWidth": 100,
+          "targetHeight": 100,
+          "icon": "🎈"
+        },
+        {
+          "id": 2,
+          "startX": 450,
+          "startY": 80,
+          "targetX": 450,
+          "targetY": 380,
+          "targetWidth": 100,
+          "targetHeight": 100,
+          "icon": "🎁"
+        }
+      ],
+      "timeLimit": 60
+    },
+    {
+      "taskId": "drag_curve_01",
+      "type": "drag_curve",
+      "difficulty": 4,
+      "title": {
+        "hiragana": "せんにそってドラッグしよう",
+        "kanji": "線に沿ってドラッグしよう"
+      },
+      "path": {
+        "type": "bezier",
+        "points": [
+          { "x": 100, "y": 250 },
+          { "x": 200, "y": 100 },
+          { "x": 300, "y": 100 },
+          { "x": 400, "y": 250 },
+          { "x": 500, "y": 400 },
+          { "x": 600, "y": 400 },
+          { "x": 700, "y": 250 }
+        ],
+        "pathWidth": 40
+      },
+      "startX": 100,
+      "startY": 250,
+      "icon": "✈️",
+      "timeLimit": 90
+    },
+    {
+      "taskId": "trace_circle_01",
+      "type": "trace",
+      "difficulty": 5,
+      "title": {
+        "hiragana": "まるをなぞろう",
+        "kanji": "円をなぞろう"
+      },
+      "shape": {
+        "type": "circle",
+        "centerX": 400,
+        "centerY": 250,
+        "radius": 150,
+        "lineWidth": 5
+      },
+      "matchThreshold": 20,
+      "timeLimit": 120
+    },
+    {
+      "taskId": "trace_square_01",
+      "type": "trace",
+      "difficulty": 5,
+      "title": {
+        "hiragana": "しかくをなぞろう",
+        "kanji": "四角をなぞろう"
+      },
+      "shape": {
+        "type": "square",
+        "x": 250,
+        "y": 100,
+        "size": 300,
+        "lineWidth": 5
+      },
+      "matchThreshold": 20,
+      "timeLimit": 120
+    },
+    {
+      "taskId": "trace_star_01",
+      "type": "trace",
+      "difficulty": 5,
+      "title": {
+        "hiragana": "ほしをなぞろう",
+        "kanji": "星をなぞろう"
+      },
+      "shape": {
+        "type": "star",
+        "centerX": 400,
+        "centerY": 250,
+        "points": 5,
+        "outerRadius": 120,
+        "innerRadius": 50,
+        "lineWidth": 5
+      },
+      "matchThreshold": 20,
+      "timeLimit": 120
+    },
+    {
       "taskId": "hover_02",
       "type": "hover",
       "difficulty": 2,
@@ -104,47 +250,6 @@
         { "id": 4, "x": 600, "y": 350, "radius": 65 }
       ],
       "doubleClickInterval": 400,
-      "timeLimit": 40
-    },
-    {
-      "taskId": "click_03",
-      "type": "click",
-      "difficulty": 4,
-      "title": {
-        "hiragana": "たくさんクリックしよう",
-        "kanji": "たくさんクリックしよう"
-      },
-      "targets": [
-        { "id": 1, "x": 150, "y": 120, "radius": 50 },
-        { "id": 2, "x": 350, "y": 120, "radius": 50 },
-        { "id": 3, "x": 550, "y": 120, "radius": 50 },
-        { "id": 4, "x": 750, "y": 120, "radius": 50 },
-        { "id": 5, "x": 250, "y": 280, "radius": 50 },
-        { "id": 6, "x": 450, "y": 280, "radius": 50 },
-        { "id": 7, "x": 650, "y": 280, "radius": 50 },
-        { "id": 8, "x": 150, "y": 420, "radius": 50 },
-        { "id": 9, "x": 450, "y": 420, "radius": 50 },
-        { "id": 10, "x": 750, "y": 420, "radius": 50 }
-      ],
-      "timeLimit": 50
-    },
-    {
-      "taskId": "hover_03",
-      "type": "hover",
-      "difficulty": 3,
-      "title": {
-        "hiragana": "ジグザグにマウスをうごかそう",
-        "kanji": "ジグザグにマウスを動かそう"
-      },
-      "targets": [
-        { "id": 1, "x": 100, "y": 100, "radius": 55 },
-        { "id": 2, "x": 700, "y": 150, "radius": 55 },
-        { "id": 3, "x": 100, "y": 250, "radius": 55 },
-        { "id": 4, "x": 700, "y": 300, "radius": 55 },
-        { "id": 5, "x": 100, "y": 400, "radius": 55 },
-        { "id": 6, "x": 400, "y": 250, "radius": 55 }
-      ],
-      "hoverDuration": 450,
       "timeLimit": 40
     }
   ]
