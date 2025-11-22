@@ -1,0 +1,151 @@
+{
+  "tasks": [
+    {
+      "taskId": "hover_01",
+      "type": "hover",
+      "difficulty": 1,
+      "title": {
+        "hiragana": "じゅんばんどおりマウスをかざそう",
+        "kanji": "順番通りマウスをかざそう"
+      },
+      "targets": [
+        { "id": 1, "x": 150, "y": 150, "radius": 60 },
+        { "id": 2, "x": 400, "y": 200, "radius": 60 },
+        { "id": 3, "x": 650, "y": 150, "radius": 60 },
+        { "id": 4, "x": 400, "y": 350, "radius": 60 },
+        { "id": 5, "x": 250, "y": 300, "radius": 60 }
+      ],
+      "hoverDuration": 500,
+      "timeLimit": 45
+    },
+    {
+      "taskId": "click_01",
+      "type": "click",
+      "difficulty": 2,
+      "title": {
+        "hiragana": "じゅんばんどおりクリックしよう",
+        "kanji": "順番通りクリックしよう"
+      },
+      "targets": [
+        { "id": 1, "x": 200, "y": 200, "radius": 60 },
+        { "id": 2, "x": 500, "y": 150, "radius": 60 },
+        { "id": 3, "x": 700, "y": 250, "radius": 60 },
+        { "id": 4, "x": 350, "y": 350, "radius": 60 },
+        { "id": 5, "x": 550, "y": 350, "radius": 60 }
+      ],
+      "timeLimit": 40
+    },
+    {
+      "taskId": "doubleclick_01",
+      "type": "doubleclick",
+      "difficulty": 3,
+      "title": {
+        "hiragana": "じゅんばんどおりダブルクリックしよう",
+        "kanji": "順番通りダブルクリックしよう"
+      },
+      "targets": [
+        { "id": 1, "x": 250, "y": 250, "radius": 70 },
+        { "id": 2, "x": 550, "y": 250, "radius": 70 },
+        { "id": 3, "x": 400, "y": 350, "radius": 70 }
+      ],
+      "doubleClickInterval": 500,
+      "timeLimit": 50
+    },
+    {
+      "taskId": "hover_02",
+      "type": "hover",
+      "difficulty": 2,
+      "title": {
+        "hiragana": "もっとはやくマウスをかざそう",
+        "kanji": "もっと早くマウスをかざそう"
+      },
+      "targets": [
+        { "id": 1, "x": 100, "y": 100, "radius": 50 },
+        { "id": 2, "x": 700, "y": 100, "radius": 50 },
+        { "id": 3, "x": 100, "y": 400, "radius": 50 },
+        { "id": 4, "x": 700, "y": 400, "radius": 50 },
+        { "id": 5, "x": 400, "y": 250, "radius": 50 },
+        { "id": 6, "x": 200, "y": 250, "radius": 50 },
+        { "id": 7, "x": 600, "y": 250, "radius": 50 }
+      ],
+      "hoverDuration": 400,
+      "timeLimit": 35
+    },
+    {
+      "taskId": "click_02",
+      "type": "click",
+      "difficulty": 3,
+      "title": {
+        "hiragana": "ちいさいまとをクリックしよう",
+        "kanji": "小さい的をクリックしよう"
+      },
+      "targets": [
+        { "id": 1, "x": 150, "y": 150, "radius": 45 },
+        { "id": 2, "x": 650, "y": 150, "radius": 45 },
+        { "id": 3, "x": 400, "y": 250, "radius": 45 },
+        { "id": 4, "x": 250, "y": 350, "radius": 45 },
+        { "id": 5, "x": 550, "y": 350, "radius": 45 },
+        { "id": 6, "x": 400, "y": 100, "radius": 45 }
+      ],
+      "timeLimit": 45
+    },
+    {
+      "taskId": "doubleclick_02",
+      "type": "doubleclick",
+      "difficulty": 4,
+      "title": {
+        "hiragana": "はやくダブルクリックしよう",
+        "kanji": "早くダブルクリックしよう"
+      },
+      "targets": [
+        { "id": 1, "x": 200, "y": 200, "radius": 65 },
+        { "id": 2, "x": 600, "y": 200, "radius": 65 },
+        { "id": 3, "x": 200, "y": 350, "radius": 65 },
+        { "id": 4, "x": 600, "y": 350, "radius": 65 }
+      ],
+      "doubleClickInterval": 400,
+      "timeLimit": 40
+    },
+    {
+      "taskId": "click_03",
+      "type": "click",
+      "difficulty": 4,
+      "title": {
+        "hiragana": "たくさんクリックしよう",
+        "kanji": "たくさんクリックしよう"
+      },
+      "targets": [
+        { "id": 1, "x": 150, "y": 120, "radius": 50 },
+        { "id": 2, "x": 350, "y": 120, "radius": 50 },
+        { "id": 3, "x": 550, "y": 120, "radius": 50 },
+        { "id": 4, "x": 750, "y": 120, "radius": 50 },
+        { "id": 5, "x": 250, "y": 280, "radius": 50 },
+        { "id": 6, "x": 450, "y": 280, "radius": 50 },
+        { "id": 7, "x": 650, "y": 280, "radius": 50 },
+        { "id": 8, "x": 150, "y": 420, "radius": 50 },
+        { "id": 9, "x": 450, "y": 420, "radius": 50 },
+        { "id": 10, "x": 750, "y": 420, "radius": 50 }
+      ],
+      "timeLimit": 50
+    },
+    {
+      "taskId": "hover_03",
+      "type": "hover",
+      "difficulty": 3,
+      "title": {
+        "hiragana": "ジグザグにマウスをうごかそう",
+        "kanji": "ジグザグにマウスを動かそう"
+      },
+      "targets": [
+        { "id": 1, "x": 100, "y": 100, "radius": 55 },
+        { "id": 2, "x": 700, "y": 150, "radius": 55 },
+        { "id": 3, "x": 100, "y": 250, "radius": 55 },
+        { "id": 4, "x": 700, "y": 300, "radius": 55 },
+        { "id": 5, "x": 100, "y": 400, "radius": 55 },
+        { "id": 6, "x": 400, "y": 250, "radius": 55 }
+      ],
+      "hoverDuration": 450,
+      "timeLimit": 40
+    }
+  ]
+}
