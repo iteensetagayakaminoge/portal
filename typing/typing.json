@@ -233,15 +233,15 @@
       "words": [
         {
           "text": "むかしむかし、あるところに、おじいさんとおばあさんがすんでいました。",
-          "romaji": "mukashimukashi、arutokoro ni、ojiisan to obaasan ga sunde imashita."
+          "romaji": "mukashimukashi,arutokoro ni,ojiisan to obaasan ga sunde imashita."
         },
         {
           "text": "おじいさんはやまへしばかりに、おばあさんはかわへせんたくにいきました。",
-          "romaji": "ojiisan ha yama he shiba kari ni、obaasan ha kawa he sentaku ni ikimashita."
+          "romaji": "ojiisan ha yama he shiba kari ni,obaasan ha kawa he sentaku ni ikimashita."
         },
         {
           "text": "おばあさんがかわでせんたくをしていると、おおきなももがどんぶらこ、どんぶらことながれてきました。",
-          "romaji": "obaasan ga kawa de sentaku wo shite iru to、ookina momo ga donburako、donburako to nagarete kimashita."
+          "romaji": "obaasan ga kawa de sentaku wo shite iru to,ookina momo ga donburako,donburako to nagarete kimashita."
         }
       ],
       "hints": {
@@ -267,15 +267,15 @@
       "words": [
         {
           "text": "むかし、あるところにまずしいおじいさんとおばあさんがいました。",
-          "romaji": "mukashi、arutokoro ni mazushii ojiisan to obaasan ga imashita."
+          "romaji": "mukashi,arutokoro ni mazushii ojiisan to obaasan ga imashita."
         },
         {
           "text": "ふゆのさむいひ、おじいさんはまちへかさをうりにいきました。",
-          "romaji": "fuyu no samui hi、ojiisan ha machi he kasa wo uri ni ikimashita."
+          "romaji": "fuyu no samui hi,ojiisan ha machi he kasa wo uri ni ikimashita."
         },
         {
-          "text": "しかし、かさはひとつもうれませんでした。",
-          "romaji": "shikashi、kasa ha hitotsu mo uremasen deshita."
+          "text": "しかし,かさはひとつもうれませんでした。",
+          "romaji": "shikashi,kasa ha hitotsu mo uremasen deshita."
         }
       ],
       "hints": {
@@ -301,11 +301,11 @@
       "words": [
         {
           "text": "むかし、うらしまたろうというやさしいりょうしがいました。",
-          "romaji": "mukashi、urashima tarou to iu yasashii ryoushi ga imashita."
+          "romaji": "mukashi,urashima tarou to iu yasashii ryoushi ga imashita."
         },
         {
           "text": "あるひ、はまべでこどもたちがかめをいじめているのをみつけました。",
-          "romaji": "aru hi、hamabe de kodomotachi ga kame wo ijimete iru no wo mitsukemashita."
+          "romaji": "aru hi,hamabe de kodomotachi ga kame wo ijimete iru no wo mitsukemashita."
         },
         {
           "text": "たろうはかめをたすけてあげました。",
@@ -404,8 +404,8 @@
           "romaji": "sokoniittekudasai"
         },
         {
-          "text": "すみません、わかりません",
-          "romaji": "sumimasen、wakarimasen"
+          "text": "すみません,わかりません",
+          "romaji": "sumimasen,wakarimasen"
         }
       ],
       "hints": {
