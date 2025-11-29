@@ -1,0 +1,222 @@
+{
+  "category": "words",
+  "difficulty": 1,
+  "tasks": [
+    {
+      "taskId": "typing_word_001",
+      "title": {
+        "hiragana": "どうぶつのなまえ",
+        "kanji": "動物の名前"
+      },
+      "description": {
+        "hiragana": "みぢかなどうぶつのなまえをれんしゅうしよう",
+        "kanji": "身近な動物の名前を練習しよう"
+      },
+      "type": "word",
+      "difficulty": 1,
+      "timeLimit": 60,
+      "targetWPM": 30,
+      "words": [
+        {
+          "text": "ねこ",
+          "romaji": "neko"
+        },
+        {
+          "text": "いぬ",
+          "romaji": "inu"
+        },
+        {
+          "text": "うさぎ",
+          "romaji": "usagi"
+        },
+        {
+          "text": "ぞう",
+          "romaji": "zou"
+        },
+        {
+          "text": "きりん",
+          "romaji": "kirin"
+        },
+        {
+          "text": "さる",
+          "romaji": "saru"
+        },
+        {
+          "text": "とり",
+          "romaji": "tori"
+        },
+        {
+          "text": "ぶた",
+          "romaji": "buta"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
+      "taskId": "typing_word_002",
+      "title": {
+        "hiragana": "くだもののなまえ",
+        "kanji": "果物の名前"
+      },
+      "description": {
+        "hiragana": "おいしいくだもののなまえをれんしゅうしよう",
+        "kanji": "おいしい果物の名前を練習しよう"
+      },
+      "type": "word",
+      "difficulty": 1,
+      "timeLimit": 60,
+      "targetWPM": 30,
+      "words": [
+        {
+          "text": "りんご",
+          "romaji": "ringo"
+        },
+        {
+          "text": "みかん",
+          "romaji": "mikan"
+        },
+        {
+          "text": "ばなな",
+          "romaji": "banana"
+        },
+        {
+          "text": "いちご",
+          "romaji": "ichigo"
+        },
+        {
+          "text": "ぶどう",
+          "romaji": "budou"
+        },
+        {
+          "text": "すいか",
+          "romaji": "suika"
+        },
+        {
+          "text": "めろん",
+          "romaji": "meron"
+        },
+        {
+          "text": "もも",
+          "romaji": "momo"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
+      "taskId": "typing_word_003",
+      "title": {
+        "hiragana": "やさいのなまえ",
+        "kanji": "野菜の名前"
+      },
+      "description": {
+        "hiragana": "いろいろなやさいのなまえをれんしゅうしよう",
+        "kanji": "いろいろな野菜の名前を練習しよう"
+      },
+      "type": "word",
+      "difficulty": 1,
+      "timeLimit": 60,
+      "targetWPM": 30,
+      "words": [
+        {
+          "text": "にんじん",
+          "romaji": "ninjin"
+        },
+        {
+          "text": "たまねぎ",
+          "romaji": "tamanegi"
+        },
+        {
+          "text": "きゃべつ",
+          "romaji": "kyabetsu"
+        },
+        {
+          "text": "とまと",
+          "romaji": "tomato"
+        },
+        {
+          "text": "きゅうり",
+          "romaji": "kyuuri"
+        },
+        {
+          "text": "だいこん",
+          "romaji": "daikon"
+        },
+        {
+          "text": "なす",
+          "romaji": "nasu"
+        },
+        {
+          "text": "ほうれんそう",
+          "romaji": "hourensou"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
+      "taskId": "typing_word_004",
+      "title": {
+        "hiragana": "いろのなまえ",
+        "kanji": "色の名前"
+      },
+      "description": {
+        "hiragana": "いろいろないろのなまえをれんしゅうしよう",
+        "kanji": "いろいろな色の名前を練習しよう"
+      },
+      "type": "word",
+      "difficulty": 1,
+      "timeLimit": 60,
+      "targetWPM": 30,
+      "words": [
+        {
+          "text": "あか",
+          "romaji": "aka"
+        },
+        {
+          "text": "あお",
+          "romaji": "ao"
+        },
+        {
+          "text": "きいろ",
+          "romaji": "kiiro"
+        },
+        {
+          "text": "みどり",
+          "romaji": "midori"
+        },
+        {
+          "text": "しろ",
+          "romaji": "shiro"
+        },
+        {
+          "text": "くろ",
+          "romaji": "kuro"
+        },
+        {
+          "text": "ちゃいろ",
+          "romaji": "chairo"
+        },
+        {
+          "text": "むらさき",
+          "romaji": "murasaki"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    }
+  ]
+}

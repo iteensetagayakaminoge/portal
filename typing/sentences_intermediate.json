@@ -1,0 +1,198 @@
+{
+  "category": "sentences",
+  "difficulty": 2,
+  "tasks": [
+    {
+      "taskId": "typing_sentence_001",
+      "title": {
+        "hiragana": "あいさつのれんしゅう",
+        "kanji": "挨拶の練習"
+      },
+      "description": {
+        "hiragana": "にちじょうのあいさつをタイピングしよう",
+        "kanji": "日常の挨拶をタイピングしよう"
+      },
+      "type": "sentence",
+      "difficulty": 2,
+      "timeLimit": 90,
+      "targetWPM": 40,
+      "words": [
+        {
+          "text": "おはよう",
+          "romaji": "ohayou"
+        },
+        {
+          "text": "こんにちは",
+          "romaji": "konnichiha"
+        },
+        {
+          "text": "こんばんは",
+          "romaji": "konbanha"
+        },
+        {
+          "text": "ありがとう",
+          "romaji": "arigatou"
+        },
+        {
+          "text": "ごめんなさい",
+          "romaji": "gomennasai"
+        },
+        {
+          "text": "さようなら",
+          "romaji": "sayounara"
+        },
+        {
+          "text": "いただきます",
+          "romaji": "itadakimasu"
+        },
+        {
+          "text": "ごちそうさま",
+          "romaji": "gochisousama"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
+      "taskId": "typing_sentence_002",
+      "title": {
+        "hiragana": "かんたんなぶんしょう",
+        "kanji": "簡単な文章"
+      },
+      "description": {
+        "hiragana": "みじかいぶんしょうをタイピングしよう",
+        "kanji": "短い文章をタイピングしよう"
+      },
+      "type": "sentence",
+      "difficulty": 2,
+      "timeLimit": 120,
+      "targetWPM": 40,
+      "words": [
+        {
+          "text": "きょうはいいてんきですね",
+          "romaji": "kyouhaiitenkidesune"
+        },
+        {
+          "text": "わたしはがくせいです",
+          "romaji": "watashihagakuseidesu"
+        },
+        {
+          "text": "これはなんですか",
+          "romaji": "korehannandesuka"
+        },
+        {
+          "text": "そこにいってください",
+          "romaji": "sokoniittekudasai"
+        },
+        {
+          "text": "すみません、わかりません",
+          "romaji": "sumimasen、wakarimasen"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": false
+      }
+    },
+    {
+      "taskId": "typing_sentence_003",
+      "title": {
+        "hiragana": "すうじのれんしゅう",
+        "kanji": "数字の練習"
+      },
+      "description": {
+        "hiragana": "すうじをふくむぶんしょうをれんしゅうしよう",
+        "kanji": "数字を含む文章を練習しよう"
+      },
+      "type": "sentence",
+      "difficulty": 2,
+      "timeLimit": 90,
+      "targetWPM": 40,
+      "words": [
+        {
+          "text": "1ばん",
+          "romaji": "1ban"
+        },
+        {
+          "text": "2じ",
+          "romaji": "2ji"
+        },
+        {
+          "text": "3がつ",
+          "romaji": "3gatsu"
+        },
+        {
+          "text": "4にん",
+          "romaji": "4nin"
+        },
+        {
+          "text": "5かい",
+          "romaji": "5kai"
+        },
+        {
+          "text": "6ねんせい",
+          "romaji": "6nensei"
+        },
+        {
+          "text": "7がつ7か",
+          "romaji": "7gatsu7ka"
+        },
+        {
+          "text": "8じ30ぷん",
+          "romaji": "8ji30pun"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
+      "taskId": "typing_sentence_004",
+      "title": {
+        "hiragana": "しつもんのれんしゅう",
+        "kanji": "質問の練習"
+      },
+      "description": {
+        "hiragana": "しつもんするぶんしょうをれんしゅうしよう",
+        "kanji": "質問する文章を練習しよう"
+      },
+      "type": "sentence",
+      "difficulty": 2,
+      "timeLimit": 90,
+      "targetWPM": 40,
+      "words": [
+        {
+          "text": "おなまえはなんですか",
+          "romaji": "onamaehanandesuka"
+        },
+        {
+          "text": "どこにすんでいますか",
+          "romaji": "dokonisundeimasuka"
+        },
+        {
+          "text": "なんさいですか",
+          "romaji": "nansaidesuka"
+        },
+        {
+          "text": "すきなたべものはなんですか",
+          "romaji": "sukinatabemonohanandesuka"
+        },
+        {
+          "text": "しゅみはなんですか",
+          "romaji": "shumihanandesuka"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": false
+      }
+    }
+  ]
+}

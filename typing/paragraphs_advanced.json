@@ -1,0 +1,108 @@
+{
+  "category": "paragraphs",
+  "difficulty": 3,
+  "tasks": [
+    {
+      "taskId": "typing_paragraph_001",
+      "title": {
+        "hiragana": "ももたろう",
+        "kanji": "桃太郎"
+      },
+      "description": {
+        "hiragana": "むかしばなしをタイピングしよう",
+        "kanji": "昔話をタイピングしよう"
+      },
+      "type": "paragraph",
+      "difficulty": 3,
+      "timeLimit": 180,
+      "targetWPM": 50,
+      "words": [
+        {
+          "text": "むかしむかし、あるところに、おじいさんとおばあさんがすんでいました。",
+          "romaji": "mukashimukashi、arutokoro ni、ojiisan to obaasan ga sunde imashita."
+        },
+        {
+          "text": "おじいさんはやまへしばかりに、おばあさんはかわへせんたくにいきました。",
+          "romaji": "ojiisan ha yama he shiba kari ni、obaasan ha kawa he sentaku ni ikimashita."
+        },
+        {
+          "text": "おばあさんがかわでせんたくをしていると、おおきなももがどんぶらこ、どんぶらことながれてきました。",
+          "romaji": "obaasan ga kawa de sentaku wo shite iru to、ookina momo ga donburako、donburako to nagarete kimashita."
+        }
+      ],
+      "hints": {
+        "showRomaji": false,
+        "showKeyboard": true,
+        "showFingerGuide": false
+      }
+    },
+    {
+      "taskId": "typing_paragraph_002",
+      "title": {
+        "hiragana": "かさじぞう",
+        "kanji": "笠地蔵"
+      },
+      "description": {
+        "hiragana": "むかしばなしをタイピングしよう",
+        "kanji": "昔話をタイピングしよう"
+      },
+      "type": "paragraph",
+      "difficulty": 3,
+      "timeLimit": 180,
+      "targetWPM": 50,
+      "words": [
+        {
+          "text": "むかし、あるところにまずしいおじいさんとおばあさんがいました。",
+          "romaji": "mukashi、arutokoro ni mazushii ojiisan to obaasan ga imashita."
+        },
+        {
+          "text": "ふゆのさむいひ、おじいさんはまちへかさをうりにいきました。",
+          "romaji": "fuyu no samui hi、ojiisan ha machi he kasa wo uri ni ikimashita."
+        },
+        {
+          "text": "しかし、かさはひとつもうれませんでした。",
+          "romaji": "shikashi、kasa ha hitotsu mo uremasen deshita."
+        }
+      ],
+      "hints": {
+        "showRomaji": false,
+        "showKeyboard": true,
+        "showFingerGuide": false
+      }
+    },
+    {
+      "taskId": "typing_paragraph_003",
+      "title": {
+        "hiragana": "うらしまたろう",
+        "kanji": "浦島太郎"
+      },
+      "description": {
+        "hiragana": "むかしばなしをタイピングしよう",
+        "kanji": "昔話をタイピングしよう"
+      },
+      "type": "paragraph",
+      "difficulty": 3,
+      "timeLimit": 180,
+      "targetWPM": 50,
+      "words": [
+        {
+          "text": "むかし、うらしまたろうというやさしいりょうしがいました。",
+          "romaji": "mukashi、urashima tarou to iu yasashii ryoushi ga imashita."
+        },
+        {
+          "text": "あるひ、はまべでこどもたちがかめをいじめているのをみつけました。",
+          "romaji": "aru hi、hamabe de kodomotachi ga kame wo ijimete iru no wo mitsukemashita."
+        },
+        {
+          "text": "たろうはかめをたすけてあげました。",
+          "romaji": "tarou ha kame wo tasukete agemashita."
+        }
+      ],
+      "hints": {
+        "showRomaji": false,
+        "showKeyboard": true,
+        "showFingerGuide": false
+      }
+    }
+  ]
+}
