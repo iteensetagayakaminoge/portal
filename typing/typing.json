@@ -13,7 +13,7 @@
       "type": "word",
       "difficulty": 1,
       "timeLimit": 60,
-      "targetWPM": 30,
+      "targetWPM": 1,
       "words": [
         {
           "text": "test",
@@ -538,4 +538,5 @@
     }
   ]
 }
+
 
