@@ -18,6 +18,10 @@
         {
           "text": "test",
           "romaji": "test"
+        },
+        {
+          "text": "あいうえお",
+          "romaji": "a@i@u@e@o"
         }
       ],
       "hints": {
@@ -242,7 +246,7 @@
         "showFingerGuide": true
       }
     },
-{
+    {
       "taskId": "typing_paragraph_001",
       "title": {
         "hiragana": "ももたろう",
@@ -538,5 +542,3 @@
     }
   ]
 }
-
-
