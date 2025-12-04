@@ -1,6 +1,32 @@
 {
   "tasks": [
     {
+      "taskId": "debug-typing",
+      "title": {
+        "hiragana": "title hira",
+        "kanji": "title kanji"
+      },
+      "description": {
+        "hiragana": "desc hira",
+        "kanji": "desc kanji"
+      },
+      "type": "word",
+      "difficulty": 1,
+      "timeLimit": 60,
+      "targetWPM": 30,
+      "words": [
+        {
+          "text": "test",
+          "romaji": "test"
+        }
+      ],
+      "hints": {
+        "showRomaji": true,
+        "showKeyboard": true,
+        "showFingerGuide": true
+      }
+    },
+    {
       "taskId": "typing_word_001",
       "title": {
         "hiragana": "どうぶつのなまえ",
@@ -512,3 +538,4 @@
     }
   ]
 }
+
