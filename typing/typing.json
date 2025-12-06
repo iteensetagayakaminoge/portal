@@ -26,11 +26,18 @@
         {
           "text": "か@き@く@け@こ",
           "romaji": "ka@ki@ku@ke@ko"
-        }
-        ,
+        },
         {
           "text": "しゃ@し@しゅ@しぇ@しょ",
           "romaji": "sha|sya|salya|saxya@shi|si@shu|syu@she|sye@sho|syo"
+        },
+        {
+          "text": "漢@字@の@入@力@で@す",
+          "romaji": "kann|otoko|kara@ji@no@nyuu|ire@ryoku|chikara|tikara@de@su"
+        },
+        {
+          "text": "☺@😢@(≧▽≦)",
+          "romaji": "sumairu@namida|kanashii|naku@yorokobi|ureshii"
         }
       ],
       "hints": {
@@ -291,6 +298,7 @@
     }
   ]
 }
+
 
 
 
