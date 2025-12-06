@@ -16,20 +16,20 @@
       "targetWPM": 1,
       "words": [
         {
-          "text": "test",
+          "text": "t@e@s@t",
           "romaji": "t@e@s@t"
         },
         {
-          "text": "あいうえお",
+          "text": "あ@い@う@え@お",
           "romaji": "a@i@u@e@o"
         },
         {
-          "text": "かきくけこ",
+          "text": "か@き@く@け@こ",
           "romaji": "ka@ki@ku@ke@ko"
         }
         ,
         {
-          "text": "しゃししゅしぇしょ",
+          "text": "しゃ@し@しゅ@しぇ@しょ",
           "romaji": "sha|sya@shi|si@shu|syu@she|sye@sho|syo"
         }
       ],
@@ -551,5 +551,6 @@
     }
   ]
 }
+
 
 
