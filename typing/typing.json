@@ -17,7 +17,7 @@
       "words": [
         {
           "text": "test",
-          "romaji": "test"
+          "romaji": "t@e@s@t"
         },
         {
           "text": "あいうえお",
@@ -542,3 +542,4 @@
     }
   ]
 }
+
