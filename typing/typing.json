@@ -272,7 +272,7 @@
       "words": [
         {
           "text": "む@か@し@む@か@し@、@あ@る@と@こ@ろ@に@、@お@じ@い@さ@ん@と@お@ば@あ@さ@ん@が@す@ん@で@い@ま@し@た@。",
-          "romaji": "mu@ka@shi@mu@ka@shi@,@a@ru@to@ko@ro@ @ni@,@o@ji@i@sa@nn@ @to@ @o@ba@a@sa@nn@ @ga@ @su@nn@de@ @i@ma@shi@ta@."
+          "romaji": "mu@ka@shi@mu@ka@shi@,@a@ru@to@ko@ro@ni@,@o@ji@i@sa@nn@to@o@ba@a@sa@nn@ga@su@nn@de@i@ma@shi@ta@."
         },
         {
           "text": "お@じ@い@さ@ん@は@や@ま@へ@し@ば@か@り@に@、@お@ば@あ@さ@ん@は@わ@へ@せ@ん@た@く@に@い@き@ま@し@た@。",
@@ -291,6 +291,7 @@
     }
   ]
 }
+
 
 
 
