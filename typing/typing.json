@@ -22,6 +22,15 @@
         {
           "text": "あいうえお",
           "romaji": "a@i@u@e@o"
+        },
+        {
+          "text": "かきくけこ",
+          "romaji": "ka@ki@ku@ke@ko"
+        }
+        ,
+        {
+          "text": "しゃししゅしぇしょ",
+          "romaji": "sha|sya@shi|si@shu|syu@she|sye@sho|syo"
         }
       ],
       "hints": {
@@ -542,4 +551,5 @@
     }
   ]
 }
+
 
