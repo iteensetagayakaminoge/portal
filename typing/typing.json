@@ -55,36 +55,36 @@
       "targetWPM": 30,
       "words": [
         {
-          "text": "ねこ",
-          "romaji": "neko"
+          "text": "ね@こ",
+          "romaji": "ne@ko"
         },
         {
-          "text": "いぬ",
-          "romaji": "inu"
+          "text": "い@ぬ",
+          "romaji": "i@nu"
         },
         {
           "text": "うさぎ",
-          "romaji": "usagi"
+          "romaji": "u@sa@gi"
         },
         {
-          "text": "ぞう",
-          "romaji": "zou"
+          "text": "ぞ@う",
+          "romaji": "zo@u"
         },
         {
-          "text": "きりん",
-          "romaji": "kirin"
+          "text": "き@り@ん",
+          "romaji": "ki@ri@nn"
         },
         {
-          "text": "さる",
-          "romaji": "saru"
+          "text": "さ@る",
+          "romaji": "sa@ru"
         },
         {
-          "text": "とり",
-          "romaji": "tori"
+          "text": "と@り",
+          "romaji": "to@ri"
         },
         {
-          "text": "ぶた",
-          "romaji": "buta"
+          "text": "ぶ@た",
+          "romaji": "bu@ta"
         }
       ],
       "hints": {
@@ -109,36 +109,36 @@
       "targetWPM": 30,
       "words": [
         {
-          "text": "りんご",
-          "romaji": "ringo"
+          "text": "り@ん@ご",
+          "romaji": "ri@nn@go"
         },
         {
-          "text": "みかん",
-          "romaji": "mikan"
+          "text": "み@か@ん",
+          "romaji": "mi@ka@nn"
         },
         {
-          "text": "ばなな",
-          "romaji": "banana"
+          "text": "ば@な@な",
+          "romaji": "ba@na@na"
         },
         {
-          "text": "いちご",
-          "romaji": "ichigo"
+          "text": "い@ち@ご",
+          "romaji": "i@chi@go"
         },
         {
-          "text": "ぶどう",
-          "romaji": "budou"
+          "text": "ぶ@ど@う",
+          "romaji": "bu@do@u"
         },
         {
-          "text": "すいか",
-          "romaji": "suika"
+          "text": "す@い@か",
+          "romaji": "su@i@ka"
         },
         {
-          "text": "めろん",
-          "romaji": "meron"
+          "text": "め@ろ@ん",
+          "romaji": "me@ro@nn"
         },
         {
-          "text": "もも",
-          "romaji": "momo"
+          "text": "も@も",
+          "romaji": "mo@mo"
         }
       ],
       "hints": {
@@ -163,36 +163,36 @@
       "targetWPM": 30,
       "words": [
         {
-          "text": "にんじん",
-          "romaji": "ninjin"
+          "text": "に@ん@じ@ん",
+          "romaji": "ni@nn@ji@nn"
         },
         {
-          "text": "たまねぎ",
-          "romaji": "tamanegi"
+          "text": "た@ま@ね@ぎ",
+          "romaji": "ta@ma@ne@gi"
         },
         {
-          "text": "きゃべつ",
-          "romaji": "kyabetsu"
+          "text": "きゃ@べ@つ",
+          "romaji": "kya@be@tsu"
         },
         {
-          "text": "とまと",
-          "romaji": "tomato"
+          "text": "と@ま@と",
+          "romaji": "to@ma@to"
         },
         {
-          "text": "きゅうり",
-          "romaji": "kyuuri"
+          "text": "きゅ@う@り",
+          "romaji": "kyu@u@ri"
         },
         {
-          "text": "だいこん",
-          "romaji": "daikon"
+          "text": "だ@い@こ@ん",
+          "romaji": "da@i@ko@nn"
         },
         {
-          "text": "なす",
-          "romaji": "nasu"
+          "text": "な@す",
+          "romaji": "na@su"
         },
         {
-          "text": "ほうれんそう",
-          "romaji": "hourensou"
+          "text": "ほ@う@れ@ん@そ@う",
+          "romaji": "ho@u@re@nn@so@u"
         }
       ],
       "hints": {
@@ -217,36 +217,36 @@
       "targetWPM": 30,
       "words": [
         {
-          "text": "あか",
-          "romaji": "aka"
+          "text": "あ@か",
+          "romaji": "a@ka"
         },
         {
-          "text": "あお",
-          "romaji": "ao"
+          "text": "あ@お",
+          "romaji": "a@o"
         },
         {
-          "text": "きいろ",
-          "romaji": "kiiro"
+          "text": "き@い@ろ",
+          "romaji": "ki@i@ro"
         },
         {
-          "text": "みどり",
-          "romaji": "midori"
+          "text": "み@ど@り",
+          "romaji": "mi@do@ri"
         },
         {
-          "text": "しろ",
-          "romaji": "shiro"
+          "text": "し@ろ",
+          "romaji": "shi@ro"
         },
         {
-          "text": "くろ",
-          "romaji": "kuro"
+          "text": "く@ろ",
+          "romaji": "ku@ro"
         },
         {
-          "text": "ちゃいろ",
-          "romaji": "chairo"
+          "text": "ちゃ@い@ろ",
+          "romaji": "cha@i@ro"
         },
         {
-          "text": "むらさき",
-          "romaji": "murasaki"
+          "text": "む@ら@さ@き",
+          "romaji": "mu@ra@sa@ki"
         }
       ],
       "hints": {
@@ -271,286 +271,27 @@
       "targetWPM": 50,
       "words": [
         {
-          "text": "むかしむかし、あるところに、おじいさんとおばあさんがすんでいました。",
-          "romaji": "mukashimukashi,arutokoro ni,ojiisan to obaasan ga sunde imashita."
+          "text": "む@か@し@む@か@し@、@あ@る@と@こ@ろ@に@、@お@じ@い@さ@ん@と@お@ば@あ@さ@ん@が@す@ん@で@い@ま@し@た@。",
+          "romaji": "mu@ka@shi@mu@ka@shi@,@a@ru@to@ko@ro@ @ni@,@o@ji@i@sa@nn@ @to@ @o@ba@a@sa@nn@ @ga@ @su@nn@de@ @i@ma@shi@ta@."
         },
         {
-          "text": "おじいさんはやまへしばかりに、おばあさんはかわへせんたくにいきました。",
-          "romaji": "ojiisan ha yama he shiba kari ni,obaasan ha kawa he sentaku ni ikimashita."
+          "text": "お@じ@い@さ@ん@は@や@ま@へ@し@ば@か@り@に@、@お@ば@あ@さ@ん@は@わ@へ@せ@ん@た@く@に@い@き@ま@し@た@。",
+          "romaji": "o@ji@i@sa@nn@ha@ya@ma@he@shi@ba@ka@ri@ni@,@o@ba@a@sa@nn@ha@ka@wa@he@se@nn@ta@ku@ni@i@ki@ma@shi@ta@."
         },
         {
-          "text": "おばあさんがかわでせんたくをしていると、おおきなももがどんぶらこ、どんぶらことながれてきました。",
-          "romaji": "obaasan ga kawa de sentaku wo shite iru to,ookina momo ga donburako,donburako to nagarete kimashita."
+          "text": "お@ば@あ@さ@ん@が@か@わ@で@せ@ん@た@く@を@し@て@い@る@と@、@お@お@き@な@も@も@が@ど@ん@ぶ@ら@こ@、@ど@ん@ぶ@ら@こ@と@な@が@れ@て@き@ま@し@た@。",
+          "romaji": "o@ba@a@sa@nn@ga@ka@wa@de@se@nn@ta@ku@wo@shi@te@i@ru@to@,@o@o@ki@na@mo@mo@ga@do@nn@bu@ra@ko@,@do@nn@bu@ra@ko@to@na@ga@re@te@ki@ma@shi@ta@."
         }
       ],
       "hints": {
         "showRomaji": false,
-        "showKeyboard": true,
-        "showFingerGuide": false
-      }
-    },
-    {
-      "taskId": "typing_paragraph_002",
-      "title": {
-        "hiragana": "かさじぞう",
-        "kanji": "笠地蔵"
-      },
-      "description": {
-        "hiragana": "むかしばなしをタイピングしよう",
-        "kanji": "昔話をタイピングしよう"
-      },
-      "type": "paragraph",
-      "difficulty": 3,
-      "timeLimit": 180,
-      "targetWPM": 50,
-      "words": [
-        {
-          "text": "むかし、あるところにまずしいおじいさんとおばあさんがいました。",
-          "romaji": "mukashi,arutokoro ni mazushii ojiisan to obaasan ga imashita."
-        },
-        {
-          "text": "ふゆのさむいひ、おじいさんはまちへかさをうりにいきました。",
-          "romaji": "fuyu no samui hi,ojiisan ha machi he kasa wo uri ni ikimashita."
-        },
-        {
-          "text": "しかし,かさはひとつもうれませんでした。",
-          "romaji": "shikashi,kasa ha hitotsu mo uremasen deshita."
-        }
-      ],
-      "hints": {
-        "showRomaji": false,
-        "showKeyboard": true,
-        "showFingerGuide": false
-      }
-    },
-    {
-      "taskId": "typing_paragraph_003",
-      "title": {
-        "hiragana": "うらしまたろう",
-        "kanji": "浦島太郎"
-      },
-      "description": {
-        "hiragana": "むかしばなしをタイピングしよう",
-        "kanji": "昔話をタイピングしよう"
-      },
-      "type": "paragraph",
-      "difficulty": 3,
-      "timeLimit": 180,
-      "targetWPM": 50,
-      "words": [
-        {
-          "text": "むかし、うらしまたろうというやさしいりょうしがいました。",
-          "romaji": "mukashi,urashima tarou to iu yasashii ryoushi ga imashita."
-        },
-        {
-          "text": "あるひ、はまべでこどもたちがかめをいじめているのをみつけました。",
-          "romaji": "aru hi,hamabe de kodomotachi ga kame wo ijimete iru no wo mitsukemashita."
-        },
-        {
-          "text": "たろうはかめをたすけてあげました。",
-          "romaji": "tarou ha kame wo tasukete agemashita."
-        }
-      ],
-      "hints": {
-        "showRomaji": false,
-        "showKeyboard": true,
-        "showFingerGuide": false
-      }
-    },
-    {
-      "taskId": "typing_sentence_001",
-      "title": {
-        "hiragana": "あいさつのれんしゅう",
-        "kanji": "挨拶の練習"
-      },
-      "description": {
-        "hiragana": "にちじょうのあいさつをタイピングしよう",
-        "kanji": "日常の挨拶をタイピングしよう"
-      },
-      "type": "sentence",
-      "difficulty": 2,
-      "timeLimit": 90,
-      "targetWPM": 40,
-      "words": [
-        {
-          "text": "おはよう",
-          "romaji": "ohayou"
-        },
-        {
-          "text": "こんにちは",
-          "romaji": "konnichiha"
-        },
-        {
-          "text": "こんばんは",
-          "romaji": "konbanha"
-        },
-        {
-          "text": "ありがとう",
-          "romaji": "arigatou"
-        },
-        {
-          "text": "ごめんなさい",
-          "romaji": "gomennasai"
-        },
-        {
-          "text": "さようなら",
-          "romaji": "sayounara"
-        },
-        {
-          "text": "いただきます",
-          "romaji": "itadakimasu"
-        },
-        {
-          "text": "ごちそうさま",
-          "romaji": "gochisousama"
-        }
-      ],
-      "hints": {
-        "showRomaji": true,
-        "showKeyboard": true,
-        "showFingerGuide": true
-      }
-    },
-    {
-      "taskId": "typing_sentence_002",
-      "title": {
-        "hiragana": "かんたんなぶんしょう",
-        "kanji": "簡単な文章"
-      },
-      "description": {
-        "hiragana": "みじかいぶんしょうをタイピングしよう",
-        "kanji": "短い文章をタイピングしよう"
-      },
-      "type": "sentence",
-      "difficulty": 2,
-      "timeLimit": 120,
-      "targetWPM": 40,
-      "words": [
-        {
-          "text": "きょうはいいてんきですね",
-          "romaji": "kyouhaiitenkidesune"
-        },
-        {
-          "text": "わたしはがくせいです",
-          "romaji": "watashihagakuseidesu"
-        },
-        {
-          "text": "これはなんですか",
-          "romaji": "korehannandesuka"
-        },
-        {
-          "text": "そこにいってください",
-          "romaji": "sokoniittekudasai"
-        },
-        {
-          "text": "すみません,わかりません",
-          "romaji": "sumimasen,wakarimasen"
-        }
-      ],
-      "hints": {
-        "showRomaji": true,
-        "showKeyboard": true,
-        "showFingerGuide": false
-      }
-    },
-    {
-      "taskId": "typing_sentence_003",
-      "title": {
-        "hiragana": "すうじのれんしゅう",
-        "kanji": "数字の練習"
-      },
-      "description": {
-        "hiragana": "すうじをふくむぶんしょうをれんしゅうしよう",
-        "kanji": "数字を含む文章を練習しよう"
-      },
-      "type": "sentence",
-      "difficulty": 2,
-      "timeLimit": 90,
-      "targetWPM": 40,
-      "words": [
-        {
-          "text": "1ばん",
-          "romaji": "1ban"
-        },
-        {
-          "text": "2じ",
-          "romaji": "2ji"
-        },
-        {
-          "text": "3がつ",
-          "romaji": "3gatsu"
-        },
-        {
-          "text": "4にん",
-          "romaji": "4nin"
-        },
-        {
-          "text": "5かい",
-          "romaji": "5kai"
-        },
-        {
-          "text": "6ねんせい",
-          "romaji": "6nensei"
-        },
-        {
-          "text": "7がつ7か",
-          "romaji": "7gatsu7ka"
-        },
-        {
-          "text": "8じ30ぷん",
-          "romaji": "8ji30pun"
-        }
-      ],
-      "hints": {
-        "showRomaji": true,
-        "showKeyboard": true,
-        "showFingerGuide": true
-      }
-    },
-    {
-      "taskId": "typing_sentence_004",
-      "title": {
-        "hiragana": "しつもんのれんしゅう",
-        "kanji": "質問の練習"
-      },
-      "description": {
-        "hiragana": "しつもんするぶんしょうをれんしゅうしよう",
-        "kanji": "質問する文章を練習しよう"
-      },
-      "type": "sentence",
-      "difficulty": 2,
-      "timeLimit": 90,
-      "targetWPM": 40,
-      "words": [
-        {
-          "text": "おなまえはなんですか",
-          "romaji": "onamaehanandesuka"
-        },
-        {
-          "text": "どこにすんでいますか",
-          "romaji": "dokonisundeimasuka"
-        },
-        {
-          "text": "なんさいですか",
-          "romaji": "nansaidesuka"
-        },
-        {
-          "text": "すきなたべものはなんですか",
-          "romaji": "sukinatabemonohanandesuka"
-        },
-        {
-          "text": "しゅみはなんですか",
-          "romaji": "shumihanandesuka"
-        }
-      ],
-      "hints": {
-        "showRomaji": true,
         "showKeyboard": true,
         "showFingerGuide": false
       }
     }
   ]
 }
+
 
 
 
